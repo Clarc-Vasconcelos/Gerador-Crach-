@@ -2,7 +2,7 @@
 
 > status do projeto: em desenvolvimento
 
-O projeto se constitui em um criador de crachá, com logo, foto do colaborar e função/cargo a serem inseridas dinamicamente em um layout de cartão de crachá, totalmente automatizado. O projeto se materializa a partir de uma sugestão do professor Daniel, do curso de Full Stack da instituição digital college, bem como meus estudos iniciais de react, assim como meu treinamento projetando nessa linguagem. O projeto tem colaboração do meu colega de turma, Clarc Vasconcelos, com o objetivo de aprender em equipe e dividir conhecimentos.
+O projeto se constitui em um criador de crachá, com logo, foto do colaborar e função/cargo a serem inseridas dinamicamente em um layout de cartão de crachá, totalmente automatizado. O projeto se materializa a partir de uma sugestão do professor Daniel, do curso de Full Stack da instituição digital college, bem como meus estudos iniciais de react, assim como meu treinamento projetando nessa linguagem. O projeto tem colaboração minha no projeto do meu colega de turma, <a href='https://github.com/Matheus-Tiago' target='_blank'>Matheus Tiago</a>, com o objetivo de aprender em equipe e dividir conhecimentos.
 
 ## Vizualize a Página em diferentes resoluções (desktop, tablet e mobile):
 ![gerador-crachá-fork-desktop](https://github.com/Clarc-Vasconcelos/Gerador-de-ID-/assets/129234188/9a4ae92b-6217-475a-97ab-1026a42f7acb)
